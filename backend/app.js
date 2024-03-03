@@ -36,7 +36,7 @@ app.post("/api/response",async(req,res)=>{
    res.send(text)
  }
  catch(err){
-  res.send("Internal ERR")
+  res.send("Backend Internal ERR")
  }
 })
 

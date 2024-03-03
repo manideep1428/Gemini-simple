@@ -4,7 +4,7 @@ import axios from 'axios'
 
 const Input = () => {
     const [chat, setChat] = useState('');
-    const [messages, setMessages] = useState([]);
+    const [messages, setMessages] = useState<string[]>([]);
     const [aichat,setAiChat] = useState([])
 
     const handleChange = (e:any) => {

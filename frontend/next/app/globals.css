@@ -16,6 +16,16 @@
   }
 }
 
+@keyframes letterAnimation {
+  from { opacity: 0; transform: translateY(-20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.letters{
+  display: inline-block;
+  animation: letterAnimation 3.0s ease-in-out both;
+}
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
@@ -24,7 +34,8 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
-}
+  }
+
 
 @layer utilities {
   .text-balance {

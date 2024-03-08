@@ -6,7 +6,8 @@
 
 <p> cd forntend/next  </p>
 
-<p> ##Download the requied modules by <b>  npm install </b> </p>
+<p> Download the required modules by <b>  npm install </b> </p>
+
 
 <p>In a new terminal </p>
 

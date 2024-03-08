@@ -2,7 +2,7 @@
 
 # HOW TO USE THIS?
 
-<p> CLone the Repositry in your laptop/Computer</p>
+<p> Clone the Repository in your laptop/Computer</p>
 
 <p> cd forntend/next  </p>
 

@@ -14,7 +14,7 @@
 
 <p> #Download the requied modules by  <b>  npm install </b> </p>
 
-<p>Get a Gemini API key from google and . Paste in .env file in main directory </p>
+<p>Get a Gemini API key from google and . Paste in .env file in main or backend directory </p>
 
 <p>Start the Frontend by <b>npm run dev</b> in frontend/next terminal </p>
 

@@ -1,4 +1,6 @@
-## This is a simple chat page Gemini and User
+## This is a simple chat page Gemini and User build in NEXTJS
+
+<p>{Note : this project is build in 3hours , SO please don't expect production level experience}</p>
 
 # HOW TO USE THIS?
 
